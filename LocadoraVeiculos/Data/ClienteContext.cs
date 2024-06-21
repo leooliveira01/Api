@@ -7,7 +7,8 @@ namespace LocadoraVeiculos.Data
     {
         public ClienteContext(DbContextOptions<ClienteContext> options) : base(options)
         { }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) //Mapeamento com banco de dados
         {
             IConfiguration configuration = new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
@@ -18,5 +19,23 @@ namespace LocadoraVeiculos.Data
         }
 
         public DbSet<Cliente> Clientes {get; set;}
+        public DbSet<Veiculo> Veiculos { get; set;}
+        public DbSet<Reserva> Reservas { get; set;}
+        protected override void OnModelCreating(ModelBuilder modelBuilder) //Relacionamentos
+        {
+            base.OnModelCreating(modelBuilder);
+
+
+            modelBuilder.Entity<Reserva>()
+                .HasOne(r => r.Cliente)
+                .WithMany()
+                .HasForeignKey(r => r.ClienteId);
+
+            modelBuilder.Entity<Reserva>()
+                .HasOne(r => r.Veiculo)
+                .WithMany()
+                .HasForeignKey(r => r.VeiculoId);
+        }
+
     }
 }
