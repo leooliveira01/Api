@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E88C6B3D-7CC2-4F69-ADF7-80102CE856A2}|LocadoraVeiculos.csproj|c:\\users\\junio\\desktop\\apilocadora\\locadoraveiculos\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88C6B3D-7CC2-4F69-ADF7-80102CE856A2}|LocadoraVeiculos.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88C6B3D-7CC2-4F69-ADF7-80102CE856A2}|LocadoraVeiculos.csproj|c:\\users\\junio\\desktop\\apilocadora\\locadoraveiculos\\data\\clientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88C6B3D-7CC2-4F69-ADF7-80102CE856A2}|LocadoraVeiculos.csproj|solutionrelative:data\\clientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88C6B3D-7CC2-4F69-ADF7-80102CE856A2}|LocadoraVeiculos.csproj|c:\\users\\junio\\desktop\\apilocadora\\locadoraveiculos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88C6B3D-7CC2-4F69-ADF7-80102CE856A2}|LocadoraVeiculos.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88C6B3D-7CC2-4F69-ADF7-80102CE856A2}|LocadoraVeiculos.csproj|c:\\users\\junio\\desktop\\apilocadora\\locadoraveiculos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E88C6B3D-7CC2-4F69-ADF7-80102CE856A2}|LocadoraVeiculos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Migrations\\20240621012235_InitialMigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240621012235_InitialMigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E88C6B3D-7CC2-4F69-ADF7-80102CE856A2}|LocadoraVeiculos.csproj|c:\\users\\junio\\desktop\\apilocadora\\locadoraveiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E88C6B3D-7CC2-4F69-ADF7-80102CE856A2}|LocadoraVeiculos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240621012235_InitialMigrations.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Migrations\\20240621012235_InitialMigrations.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240621012235_InitialMigrations.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Migrations\\20240621012235_InitialMigrations.cs",
+              "RelativeToolTip": "Migrations\\20240621012235_InitialMigrations.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:22:36.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:05:09.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteContext.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Data\\ClienteContext.cs",
+              "RelativeDocumentMoniker": "Data\\ClienteContext.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Data\\ClienteContext.cs",
+              "RelativeToolTip": "Data\\ClienteContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:00:56.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T00:55:27.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwC8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:48:25.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\junio\\Desktop\\ApiLocadora\\LocadoraVeiculos\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T00:38:07.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
